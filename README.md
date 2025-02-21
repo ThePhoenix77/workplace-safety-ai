@@ -8,7 +8,7 @@ whether workers are complying with safety protocols (e.g., wearing helmets, glov
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 - **Objective:** Develop an AI system that monitors workplace environments and detects safety violations.
 - **Key Features:**
@@ -19,9 +19,9 @@ whether workers are complying with safety protocols (e.g., wearing helmets, glov
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
-- **Programming Language:** C and Python (for AI prototyping)
+- **Programming Language:** Python (for AI prototyping)
 - **Deep Learning Framework:** TensorFlow/Keras (for CNN development)
 - **Computer Vision Library:** OpenCV
 - **Deployment:** GitHub Pages for the landing page demonstration
@@ -44,11 +44,11 @@ workplace-safety-ai/
 
 ---
 
-## 🔧 How to Use This Repository
+## How to Use This Repository
 
 1. **View the Landing Page:**
    - Enable GitHub Pages on the `main` branch via repository settings.
-   - Access your live demo at `https://<your-username>.github.io/workplace-safety-ai/`.
+   - Access your live demo at `https://ThePhoenix77.github.io/workplace-safety-ai/`.
 
 2. **Project Expansion:**
    - This repo serves as a project placeholder. Future updates will include the full implementation of the AI model for PPE detection.
@@ -56,7 +56,7 @@ workplace-safety-ai/
 
 ---
 
-## 👥 About Me
+## About Me
 
 I am a Computer Science student at 1337, passionate about AI and deep learning.
 I’m working on innovative projects that not only solve real-world problems but 
