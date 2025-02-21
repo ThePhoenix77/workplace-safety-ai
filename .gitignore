@@ -1,0 +1,11 @@
+# Ignore Python cache files (if any)
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build files (if you ever build the project)
+build/
+dist/
