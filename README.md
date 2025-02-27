@@ -1,5 +1,9 @@
 # Workplace Safety AI
 
+🚧*Note: This project is currently under development and hosted in a private repository.*
+
+---
+
 **An AI-Powered PPE Detection System**
 
 This project is an innovative deep-learning solution designed to enhance workplace safety.
