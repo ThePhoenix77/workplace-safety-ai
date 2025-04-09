@@ -52,7 +52,7 @@ workplace-safety-ai/
 
 1. **View the Landing Page:**
    - Enable GitHub Pages on the `main` branch via repository settings.
-   - Access your live demo at `https://ThePhoenix77.github.io/workplace-safety-ai/`.
+   - Access your live demo at `https://ThePhoenix77.github.io/workplace-safety-ai/` or simply [Click here](https://thephoenix77.github.io/workplace-safety-ai/).
 
 2. **Project Expansion:**
    - This repo serves as a project placeholder. Future updates will include the full implementation of the AI model for PPE detection.
@@ -76,8 +76,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 Email: tahaboussaden7322@gmail.com
-LinkedIn: in/taha-boussaden/
+LinkedIn: [Taha Boussaden](https://www.linkedin.com/in/taha-boussaden/)
 
 ---
 
 *Feel free to reach out if you have any questions or would like to collaborate!*
+
+---
+
+To go back to the demo website: [Click here](https://thephoenix77.github.io/workplace-safety-ai/)
