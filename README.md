@@ -1,3 +1,9 @@
+
+<h1 align="center">
+<img width="880" alt="gitintel" src="/assets/images/workplace-safety-ai-high-resolution-logo.png" />
+</h1>
+
+
 # Workplace Safety AI
 
 > **Archived project — no longer under active development.**
