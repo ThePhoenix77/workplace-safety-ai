@@ -1,87 +1,80 @@
 # Workplace Safety AI
 
-🚧*Note: This project is currently under development and hosted in a private repository.*
+> **Archived project — no longer under active development.**
+
+An exploratory AI project focused on using **computer vision and deep learning** to improve workplace safety through **Personal Protective Equipment (PPE) detection**.
+
+The project was developed as part of the **UM6P Explorer program** and explored the potential of AI-powered visual monitoring for industrial safety environments.
 
 ---
 
-**An AI-Powered PPE Detection System**
+## Overview
 
-This project is an innovative deep-learning solution designed to enhance workplace safety.
-Using Convolutional Neural Networks (CNNs) and object detection techniques, the system detects 
-whether workers are complying with safety protocols (e.g., wearing helmets, gloves, and vests) in real-time video feeds.
+Workplace Safety AI was designed around the idea of automatically identifying whether workers are complying with required safety protocols through video analysis.
 
----
+The project focused on the potential detection of PPE such as:
 
-## Project Overview
+* 🪖 Safety helmets
+* 🦺 Safety vests
+* 🧤 Protective gloves
+* Other personal protective equipment
 
-- **Objective:** Develop an AI system that monitors workplace environments and detects safety violations.
-- **Key Features:**
-  - Real-time video processing using OpenCV.
-  - CNN-based object detection for PPE (Personal Protective Equipment).
-  - Alerts and notifications for detected safety issues.
-- **Target Industry:** Industrial, construction, mining, and manufacturing.
+The broader objective was to explore how computer vision could assist safety teams in identifying potential safety violations in environments such as construction sites, manufacturing facilities, mining operations, and industrial workplaces.
 
 ---
 
-## Technologies Used
+## Project Goals
 
-- **Programming Language:** Python (for AI prototyping)
-- **Deep Learning Framework:** TensorFlow/Keras (for CNN development)
-- **Computer Vision Library:** OpenCV
-- **Deployment:** GitHub Pages for the landing page demonstration
+The project explored several key areas:
 
----
-
-## 📂 Repository Structure
-```
-workplace-safety-ai/
-├── README.md
-├── index.html
-├── style.css
-├── assets/
-│   └── images/
-│       └── logo.png  (placeholder image)
-├── .gitignore
-└── LICENSE
-
-```
+* Computer vision for workplace monitoring
+* Object detection for PPE recognition
+* Real-time video processing
+* Deep learning for visual recognition
+* Automated identification of potential safety violations
+* Potential alerting mechanisms for detected violations
 
 ---
 
-## How to Use This Repository
+## Technologies
 
-1. **View the Landing Page:**
-   - Enable GitHub Pages on the `main` branch via repository settings.
-   - Access your live demo at `https://ThePhoenix77.github.io/workplace-safety-ai/` or simply [Click here](https://thephoenix77.github.io/workplace-safety-ai/).
-
-2. **Project Expansion:**
-   - This repo serves as a project placeholder. Future updates will include the full implementation of the AI model for PPE detection.
-   - Check back for more detailed documentation and demos!
+| Technology             | Purpose                                |
+| ---------------------- | -------------------------------------- |
+| **Python**             | AI development and experimentation     |
+| **TensorFlow / Keras** | Deep learning and model development    |
+| **OpenCV**             | Image and video processing             |
 
 ---
 
-## About Me
+## Project Status
 
-I am a Computer Science student at 1337, passionate about AI and deep learning.
-I’m working on innovative projects that not only solve real-world problems but 
-also push the boundaries of what AI can achieve in enhancing workplace safety.
+This project has been archived and is no longer under active development.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+It was developed as an exploratory project within the **UM6P Explorer program** and provided an opportunity to investigate the application of computer vision and deep learning to workplace safety.
 
 ---
 
-## Contact
-Email: tahaboussaden7322@gmail.com
-LinkedIn: [Taha Boussaden](https://www.linkedin.com/in/taha-boussaden/)
+## What I Learned
+
+The project provided an opportunity to explore:
+
+* Applying AI to a real-world industrial problem
+* Computer vision and object detection concepts
+* Deep learning workflows for visual recognition
+* Real-time image and video processing
+* Designing an AI project from an open-ended problem
+* The challenges involved in taking an AI concept toward a practical system
+
+The experience also contributed to my broader interest in building practical AI systems that address real-world problems.
 
 ---
 
-*Feel free to reach out if you have any questions or would like to collaborate!*
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-To go back to the demo website: [Click here](https://thephoenix77.github.io/workplace-safety-ai/)
+**Status:** Archived
+**Program:** UM6P Explorer
+**Focus:** Computer Vision · Deep Learning · Workplace Safety
